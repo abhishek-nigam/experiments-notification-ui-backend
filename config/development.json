@@ -1,0 +1,12 @@
+{
+    "mode": "development",
+    "databases": {
+        "mongo": {
+            "user": "abhishek",
+            "password": "hello123",
+            "host": "ds259253.mlab.com",
+            "port": 59253,
+            "name": "notification-ui-demo"
+        }
+    }
+}
